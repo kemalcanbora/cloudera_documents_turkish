@@ -3,7 +3,7 @@
 - [x] HBase Thrift Server
 - [x] HBase RegionServer
 - [x] Hive Metastore Server
-- [ ] HiveServer2
+- [x] HiveServer2
 - [ ] Hive Gateway
 - [ ] Hue Load Balancer
 - [ ] Hue Server
