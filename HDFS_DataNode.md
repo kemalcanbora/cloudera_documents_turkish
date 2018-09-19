@@ -1,4 +1,4 @@
-#HDFS DataNode
+# HDFS DataNode
 
 DataNode, [HadoopFileSystem] dosyasında veri depolar.Fonksiyonel bir dosyasisteminde birden fazla DataNode bulundurur ve veriler arasında çoğaltılır(replicated).
 
@@ -13,4 +13,3 @@ DataNode örnekleri birbirleriyle konuşabilir, veriyi çoğaltırken(replicated
 Genellikle DataNode verileri için RAID depolaması kullanılmasına gerek yoktur, çünkü veriler aynı sunucudaki birden çok disk yerine birden çok sunucuda çoğaltılmak üzere tasarlanmıştır.
 
 Bir sunucunun DataNode'a, bir TaskTracker'a ve CPU başına bir TaskTracker'a sahip olması ideal bir yapılandırmadır.Bu,her TaskTracker'ın bir CPU'nun% 100'üne ve ayrı disklere veri okuma ve yazma olanağı sağlayacaktır.
-
