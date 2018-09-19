@@ -6,7 +6,7 @@
 - [x] HiveServer2
 - [ ] Hive Gateway
 - [ ] Hue Load Balancer
-- [ ] Hue Server
+- [x] Hue Server
 - [ ] Hue Kerberos Ticket Renewer
 - [ ] Impala Catalog Server
 - [ ] Impala StateStore
