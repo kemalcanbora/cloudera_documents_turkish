@@ -1,7 +1,7 @@
 # Büyük veri için kullanılan bazı modüller ve açıklamaları
 - [x] HDFS DataNode
 - [x] HBase Thrift Server
-- [ ] HBase RegionServer
+- [x] HBase RegionServer
 - [ ] Hive Metastore Server
 - [ ] HiveServer2
 - [ ] Hive Gateway
