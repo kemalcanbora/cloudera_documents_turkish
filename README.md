@@ -2,7 +2,7 @@
 - [x] HDFS DataNode
 - [x] HBase Thrift Server
 - [x] HBase RegionServer
-- [ ] Hive Metastore Server
+- [x] Hive Metastore Server
 - [ ] HiveServer2
 - [ ] Hive Gateway
 - [ ] Hue Load Balancer
