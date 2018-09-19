@@ -7,7 +7,7 @@
 - [ ] Hive Gateway
 - [ ] Hue Load Balancer
 - [x] Hue Server
-- [ ] Hue Kerberos Ticket Renewer
+- [x] Hue Kerberos Ticket Renewer
 - [ ] Impala Catalog Server
 - [ ] Impala StateStore
 - [ ] Impala Daemon
