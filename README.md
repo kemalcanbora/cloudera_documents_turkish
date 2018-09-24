@@ -9,8 +9,8 @@
 - [x] Hue Server
 - [x] Hue Kerberos Ticket Renewer
 - [ ] Impala Catalog Server
-- [ ] Impala StateStore
-- [ ] Impala Daemon
+- [x] Impala StateStore
+- [x] Impala Daemon
 - [ ] Kudu Master
 - [ ] Kudu Tablet Server
 - [ ] Oozie Server
