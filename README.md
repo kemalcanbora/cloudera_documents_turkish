@@ -13,7 +13,7 @@
 - [x] Impala Daemon
 - [ ] Kudu Master
 - [ ] Kudu Tablet Server
-- [ ] Oozie Server
+- [x] Oozie Server
 - [ ] Spark 2 History Server
 - [ ] YARN (MR2 Included) JobHistory Server
 - [ ] YARN (MR2 Included) ResourceManager
