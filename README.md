@@ -8,7 +8,7 @@
 - [ ] Hue Load Balancer
 - [x] Hue Server
 - [x] Hue Kerberos Ticket Renewer
-- [ ] Impala Catalog Server
+- [x] Impala Catalog Server
 - [x] Impala StateStore
 - [x] Impala Daemon
 - [ ] Kudu Master
